@@ -22,7 +22,8 @@ def add_numbers(a,b):
   return a+b
 
 #Subtract two numbers
-
+def subtract_numbers(a,b):
+  return a-b
 
 #Multiply two numbers
 
