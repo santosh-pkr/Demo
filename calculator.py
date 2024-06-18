@@ -26,6 +26,8 @@ def subtract_numbers(a,b):
   return a-b
 
 #Multiply two numbers
+def multiply_numbers(a,b):
+  return a*b
 
 
 #Divide two numbers
